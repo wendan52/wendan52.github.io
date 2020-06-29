@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Welcome to Hux Blog"
+subtitle: ' "Hello World, Hello Blog"'
+date: 2020-06-30 00:00:00
+author: "WenDan"
+header-img: "img/post-bg-2015.jpg"
+tags:
+  - 生活
+---
+
+> “It's on. ”
+
+## 前言
+
+文丹的 Blog 开启啦
+
+[渣渣的自己要坚持记录自己的种种，抓住时间的尾巴～]
+
+fork 了[黄玄大牛](https://huangxuan.me)的 demo，产出了自己的博客。
