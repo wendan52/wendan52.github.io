@@ -2,7 +2,7 @@
 layout: keynote
 title: "模块化七日谈"
 subtitle: "黄玄-JavaScript模块化七日谈"
-date: 2020-06-30
+date: 2020-06-29
 author: "WenDan"
 header-img: "img/post-bg-js-version.jpg"
 tags:
