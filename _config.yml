@@ -55,7 +55,7 @@ duoshuo_share: false # set to false if you want to use Comment without Sharing
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/icon_header.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
