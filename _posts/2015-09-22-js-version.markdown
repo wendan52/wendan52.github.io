@@ -8,7 +8,6 @@ header-img: "img/post-bg-js-version.jpg"
 tags:
   - 前端开发
   - JavaScript
-  - 翻译
 ---
 
 > 本文摘自[黄玄的 git 项目](https://github.com/huxpro/huxblog-boilerplate)
