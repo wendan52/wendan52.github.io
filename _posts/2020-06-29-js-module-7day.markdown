@@ -1,5 +1,5 @@
 ---
-layout: keynote
+layout: post
 title: "模块化七日谈"
 subtitle: "黄玄-JavaScript模块化七日谈"
 date: 2020-06-29
