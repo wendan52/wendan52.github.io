@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "好久不见"
-subtitle: ' "Hello World, Hello Blog"'
+subtitle: '甚是想念'
 date: 2025-08-21
 author: "WenDan"
 header-img: "img/about-bg.jpg"
@@ -9,7 +9,7 @@ tags:
   - 生活
 ---
 
-好久不见。
+> 好久不见。
 
 一位wmls飘过~🥕
 
@@ -19,7 +19,7 @@ tags:
 
 也因为他们，又重拾了钩针的爱好～卜卜的嘴巴和正主真的一模一样！
 
-![卜卜](img/2025-08-21-nice-to-meet-u/1.jpg)
+![卜卜](/img/in-post/nice-to-meet-u/1.png)
 
 
 最近有点迷茫
@@ -28,4 +28,4 @@ tags:
 
 未来会有新的开始
 
-![加油](img/2025-08-21-nice-to-meet-u/2.jpg)
+![加油](/img/in-post/nice-to-meet-u/2.jpeg)
